@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-11-22T21:52:19.030Z",
+  "items": {
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-11-22T21:52:14.710Z",
+      "last_pushed_at": "2026-11-22T21:52:14.710Z"
+    }
+  }
+}
